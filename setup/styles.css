@@ -150,3 +150,16 @@ main {
   display: grid;
   place-items: center;
 }
+
+/*
+=============== 
+Nav
+===============
+*/
+nav {
+  background: var(--clr-white);
+  height: 3rem;
+  display: grid;
+  align-items: center;
+  box-shadow: var(--dark-shadow);
+}
