@@ -53,3 +53,17 @@ Variables
   --max-width: 1170px;
   --fixed-width: 620px;
 }
+
+/*
+=============== 
+Global Styles
+===============
+*/
+
+*,
+::after,
+::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
