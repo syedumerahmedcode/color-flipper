@@ -189,3 +189,16 @@ nav a {
 nav a:hover {
   color: var(--clr-primary-5);
 }
+/*
+=============== 
+Container
+===============
+*/
+main {
+  min-height: calc(100vh-3rem);
+  display: grid;
+  place-items: center;
+}
+.container {
+  text-align: center;
+}
