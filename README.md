@@ -16,7 +16,7 @@
 
 ## Introduction
 
-To be written.
+The project is called color flipper and in this project, we will flip through colors when teh user click a button. The project consists of two pages ''index.html''
 
 ## Out Of Scope
 
