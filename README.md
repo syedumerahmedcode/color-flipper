@@ -22,7 +22,7 @@ The application is coded in Visual Studio Code and deployed using Live server ex
 
 ## Out Of Scope
 
-To be written.
+Since this is an beginner project in which the focus is just to learn the some basic javascript, testing is out of scope of this project. Similarly, continous delivery(either via Docker or github Pilot) is out of scope of this project.
 
 ## Explanation part1
 
