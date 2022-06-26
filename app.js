@@ -9,6 +9,7 @@ const colors = [
   "yellow",
   "orange",
   "purple",
+  "brown",
 ];
 const btn = document.getElementById("btn");
 const color = document.querySelector(".color");
