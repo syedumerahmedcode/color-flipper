@@ -13,3 +13,47 @@
 - [Contribution](#contribution)
 - [References](#references)
 - [Contact Information](#contact-information)
+
+## Introduction
+
+To be written.
+
+## Out Of Scope
+
+To be written.
+
+## Explanation part1
+
+To be written.
+
+## Explanation part2
+
+To be written.
+
+## Explanation part3
+
+To be written.
+
+## Technologies Used
+
+To be written.
+
+## Prerequisities
+
+To be written.
+
+## Commands
+
+To be written.
+
+## Contribution
+
+To be written.
+
+## References
+
+To be written.
+
+## Contact Information
+
+To be written.
