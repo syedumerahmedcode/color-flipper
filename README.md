@@ -48,7 +48,7 @@ To be written.
 
 ## Contribution
 
-To be written.
+Feature requests, issues, pull requests and questions are welcome.
 
 ## References
 
