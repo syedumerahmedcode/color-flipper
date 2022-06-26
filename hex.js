@@ -6,9 +6,15 @@ const color = document.querySelector(".color");
 btn.addEventListener("click", function () {
   //   console.log(document.body);
   let hexColor = "#";
-  for (let i = 0; i < 6; i++) {
-    hexColor += hex[0];
+  const firstElementOfHexValue = 0;
+  const maxNumberOfElementsInAHex = 6;
+  for (let i = firstElementOfHexValue; i < maxNumberOfElementsInAHex; i++) {
+    hexColor += hex[getRandomNumber()];
   }
   color.textContent = hexColor;
   document.body.style.backgroundColor = hexColor;
 });
+
+function getRandomNumber() {
+  return Math.floor(Math.random() * hex.length);
+}
