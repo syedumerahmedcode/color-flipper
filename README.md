@@ -37,7 +37,7 @@ To be written.
 ## Technologies Used
 
 - Javascript(https://www.w3schools.com/js/): JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions(A programming language is said to have First-class functions when functions in that language are treated like any other variable. For example, in such a language, a function can be passed as an argument to other functions, can be returned by another function and can be assigned as a value to a variable). While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat. JavaScript is a prototype-based(Prototype-based programming is a style of object-oriented programming in which classes are not explicitly defined, but rather derived by adding properties and methods to an instance of another class or, less frequently, adding them to an empty object. In simple words: this type of style allows the creation of an object without first defining its class.), multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles.
-- HTML5(http link): One liner on HTML5.
+- HTML5(https://www.w3schools.com/html/default.asp): HTML (HyperText Markup Language) is the most basic building block of the Web. It defines the meaning and structure of web content. Other technologies besides HTML are generally used to describe a web page's appearance/presentation (CSS) or functionality/behavior (JavaScript). HTML5 is the latest version of HTML.
 
 ## Prerequisities
 
@@ -54,8 +54,8 @@ Feature requests, issues, pull requests and questions are welcome.
 ## References
 
 - [1](Udemy link): **Primary resource**
-- [2](https://developer.mozilla.org/en-US/docs/Web/JavaScript): JavaScript|MDN - Mozilla Firefox
-- [3](https://www.w3schools.com/js/): Javascript Tutorial - W3DSchools
+- [2](https://developer.mozilla.org/en-US/docs/Web/JavaScript): JavaScript | MDN
+- [3](https://developer.mozilla.org/en-US/docs/Glossary/HTML5): HTML5 - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
 
 ## Contact Information
 
