@@ -53,7 +53,9 @@ Feature requests, issues, pull requests and questions are welcome.
 
 ## References
 
-To be written.
+- [1](Udemy link): **Primary resource**
+- [2](https://developer.mozilla.org/en-US/docs/Web/JavaScript): JavaScript|MDN - Mozilla Firefox
+- [3](https://www.w3schools.com/js/): Javascript Tutorial - W3DSchools
 
 ## Contact Information
 
