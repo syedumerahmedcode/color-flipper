@@ -1,15 +1,24 @@
-const colors = ["green", "red", "rgba(133,122,200)", "#f15025"];
+const colors = [
+  "red",
+  "green",
+  "blue",
+  "white",
+  "grey",
+  "black",
+  "pink",
+  "yellow",
+  "orange",
+  "purple",
+];
 const btn = document.getElementById("btn");
 const color = document.querySelector(".color");
+let counter = 0;
 btn.addEventListener("click", function () {
-  //   console.log(document.body);
-  // get random number between 0 and 3
-  const randomNumber = getRandomNumber();
-  console.log(randomNumber);
-  document.body.style.backgroundColor = colors[randomNumber];
-  color.textContent = colors[randomNumber];
+  if (counter >= colors.length) {
+    counter = 0;
+  }
+  console.log(counter);
+  document.body.style.backgroundColor = colors[counter];
+  color.textContent = colors[counter];
+  counter++;
 });
-
-function getRandomNumber() {
-  return Math.floor(Math.random() * colors.length);
-}
