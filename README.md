@@ -5,8 +5,11 @@
 - [Introduction](#introduction)
 - [Out Of Scope](#out-of-scope)
 - [Project structure](#project-structure)
-- [index.html](#index.html)
-- [Explanation part3](#explanation-part3)
+- [index.html](#indexhtml)
+- [app.js](#appjs)
+- [hex.html](#hexhtml)
+- [hex.js](#hexjs)
+- [styles.css](#stylescss)
 - [Technologies Used](#technologies-used)
 - [Prerequisities](#prerequisities)
 - [Commands](#commands)
@@ -40,7 +43,19 @@ Additionally, a _setup_ folder is also created which contains the initial projec
 
 To be written.
 
-## Explanation part3
+## app.js
+
+To be written.
+
+## hex.html
+
+To be written.
+
+## hex.js
+
+To be written.
+
+## styles.css
 
 To be written.
 
