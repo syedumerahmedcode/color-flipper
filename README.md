@@ -18,7 +18,7 @@
 
 The project is called color flipper and in this project, we will flip through colors when teh user click a button. The project consists of two pages **index.html** and **hex.html** with their corresponding javascript files, namely _app.js_ and _hex.js_.
 
-The application is coded in Visual Studio Code and deployed using Live server extension.
+The application is coded in Visual Studio Code and deployed using Live server extension. This project is the first project in a series of basic javascript project created for better understanding of the technology and how things work. The inspiration for this project is coming from this [Udemy](https://www.udemy.com/course/javascript-tutorial-for-beginners-w/) course.
 
 ## Out Of Scope
 
