@@ -4,7 +4,7 @@
 
 - [Introduction](#introduction)
 - [Out Of Scope](#out-of-scope)
-- [Explanation part1](#explanation-part1)
+- [Project structure](#project-structure)
 - [Explanation part2](#explanation-part2)
 - [Explanation part3](#explanation-part3)
 - [Technologies Used](#technologies-used)
@@ -24,9 +24,17 @@ The application is coded in Visual Studio Code and deployed using Live server ex
 
 Since this is an beginner project in which the focus is just to learn the some basic javascript, testing is out of scope of this project. Similarly, continous delivery(either via Docker or github Pilot) is out of scope of this project.
 
-## Explanation part1
+## Project structure
 
-To be written.
+The project consists of 6 files which are described below:
+
+- index.html
+- app.js
+- hex.html
+- hex.js
+- styles.css
+
+Additionally, a **setup** folder is also created which contains the initial project in its basic form and it was used as basis for the finished project.
 
 ## Explanation part2
 
