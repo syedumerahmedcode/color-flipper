@@ -41,7 +41,29 @@ Additionally, a _setup_ folder is also created which contains the initial projec
 
 ## index.html
 
-To be written.
+The _index.html_ page contains the title and the link to the _styles.css_ stylesheet in its <head /> section.
+
+Inside the `<body />` tag, it contains two navigation links inside an unordered list.
+
+```html
+<ul class="nav-links">
+  <li>
+    <a href="index.html">simple</a>
+  </li>
+  <li>
+    <a href="hex.html">hex</a>
+  </li>
+</ul>
+```
+
+In the `<main />` tag, a default background color and a button with an id is created.
+
+```html
+<div class="container">
+  <h2>background color: <span class="color">#f1f5f8</span></h2>
+  <button class="btn btn-hero" id="btn">click me</button>
+</div>
+```
 
 ## app.js
 
