@@ -129,7 +129,7 @@ To be written.
 
 ## styles.css
 
-To be written.
+The css file consists of various sections such as `Fonts` , `Variables`, `Global Styles`, `Nav` and `Container`
 
 ## Technologies Used
 
