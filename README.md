@@ -182,7 +182,9 @@ Since this project is constructed using Visual Studio Code and Live Server, ther
 
 ## Commands
 
-To be written.
+In Visual Studio Code, please go to index.html. Once there, right click-->Open with Live Server. On the user's local machine, the application is accessible under `http://127.0.0.1:5500/index.html`.
+
+One can switch between _index.html_ and _hex.html_ by clicking on _Simple_ and _Hex_ on the top of the page respectively.
 
 ## Contribution
 
