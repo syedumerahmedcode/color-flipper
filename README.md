@@ -125,7 +125,45 @@ The HTML page is very similar to _index.html_ page. The only siginificant differ
 
 ## hex.js
 
-To be written.
+The main idea here is to fill the screen with a random color and for the end-user, there are infinite combinations of hex numbers possible. Here, we have a list of hex elements in an array which will be repeated through. They are:
+
+```javascript
+const hex = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, "A", "B", "C", "D", "E", "F"];
+```
+
+Just like _app.js_, we use `document` object to obtain _btn_ element and _color_ class.
+
+```javascript
+const btn = document.getElementById("btn");
+const color = document.querySelector(".color");
+```
+
+Next, we add an event listener on the **click** event and within the inline function, we do the following:
+
+- Initialize `hexColor = "#"`. Additionally, initialize the constants `firstElementOfHexValue = 0` and `maxNumberOfElementsInAHex = 6`.
+
+- We loop through 6 times and each time picks an element from hex array randomly based on the result of the random function.
+
+```javascript
+for (let i = firstElementOfHexValue; i < maxNumberOfElementsInAHex; i++) {
+  hexColor += hex[getRandomNumber()];
+}
+```
+
+- Random number is generated in the following manner:
+
+```javascript
+function getRandomNumber() {
+  return Math.floor(Math.random() * hex.length);
+}
+```
+
+- Finally, set the background color of the style of the body to the `hexColor` and set the text content of the color also to `hexColor`.
+
+```javascript
+color.textContent = hexColor;
+document.body.style.backgroundColor = hexColor;
+```
 
 ## styles.css
 
