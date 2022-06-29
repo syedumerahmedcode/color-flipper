@@ -25,7 +25,7 @@ This program can be used to teach kids either a fix set of colors which are disp
 
 The project consists of two pages **index.html** and **hex.html** with their corresponding javascript files, namely _app.js_ and _hex.js_.
 
-The application is coded in Visual Studio Code and deployed using Live server extension. This project is the first project in a series of basic javascript project created for better understanding of the technology and how things work. The inspiration for this project is coming from this [Udemy](https://www.udemy.com/course/javascript-tutorial-for-beginners-w/) course.
+The application is coded in Visual Studio Code and deployed using Live server extension. This project is the first one in a series of basic javascript project created for better understanding of the technology and how things work. The inspiration for this project is coming from this [Udemy](https://www.udemy.com/course/javascript-tutorial-for-beginners-w/) course.
 
 ## Out Of Scope
 
@@ -121,7 +121,7 @@ btn.addEventListener("click", function () {
 
 ## hex.html
 
-To be written.
+The HTML page is very similar to _index.html_ page. The only siginificant different is that here, we refer `hex.js` file for javascript functionality.
 
 ## hex.js
 
