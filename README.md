@@ -91,6 +91,34 @@ const colors = [
 
 Using `document`, we obtain _btn_ element and _color_ class. We also initialize a counter with the initial value of 0.
 
+```javascript
+const btn = document.getElementById("btn");
+const color = document.querySelector(".color");
+let counter = 0;
+```
+
+Next, we add an event listener on the **click** event and within the inline function, we do the following:
+
+- Check if the current value of counter is greater than or equal to the total number of elements in the colors array. If yes, set it to the initial value. If not, continue.
+
+- Set the background color of the style of the body to the counter value in the array.
+
+- Set the text content of the color to the counter value in the array.
+
+- Increment the counter.
+
+```javascript
+btn.addEventListener("click", function () {
+  if (counter >= colors.length) {
+    counter = 0;
+  }
+  console.log(counter);
+  document.body.style.backgroundColor = colors[counter];
+  color.textContent = colors[counter];
+  counter++;
+});
+```
+
 ## hex.html
 
 To be written.
