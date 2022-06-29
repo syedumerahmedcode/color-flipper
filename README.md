@@ -19,7 +19,11 @@
 
 ## Introduction
 
-The project is called color flipper and in this project, we will flip through colors when teh user click a button. The project consists of two pages **index.html** and **hex.html** with their corresponding javascript files, namely _app.js_ and _hex.js_.
+The project is called color flipper and in this project, we will flip through colors when the user click a button.
+
+This program can be used to teach kids either a fix set of colors which are displayed on the screen along with its name or generate random colors with every click of the button.
+
+The project consists of two pages **index.html** and **hex.html** with their corresponding javascript files, namely _app.js_ and _hex.js_.
 
 The application is coded in Visual Studio Code and deployed using Live server extension. This project is the first project in a series of basic javascript project created for better understanding of the technology and how things work. The inspiration for this project is coming from this [Udemy](https://www.udemy.com/course/javascript-tutorial-for-beginners-w/) course.
 
@@ -67,7 +71,25 @@ In the `<main />` tag, a default background color and a button with an id is cre
 
 ## app.js
 
-To be written.
+The main idea here is to loop through a fix set of colours repeatedly without reloading the page. Here, we have a list of set colors in an array which will be repeated through. They are:
+
+```javascript
+const colors = [
+  "red",
+  "green",
+  "blue",
+  "white",
+  "grey",
+  "black",
+  "pink",
+  "yellow",
+  "orange",
+  "purple",
+  "brown",
+];
+```
+
+Using `document`, we obtain _btn_ element and _color_ class. We also initialize a counter with the initial value of 0.
 
 ## hex.html
 
