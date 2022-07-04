@@ -19,13 +19,9 @@
 
 ## Introduction
 
-The project is called color flipper and in this project, we will flip through colors when the user click a button.
+The project is called color flipper and in this project, we will flip through colors when the user click a button. This program can be used to teach little kids either a fix set of colors which are displayed on the screen along with their names.
 
-This program can be used to teach little kids either a fix set of colors which are displayed on the screen along with their names.
-
-The application also has the possibility to generate random colors with every click of the button.
-
-The project consists of two pages **index.html** and **hex.html** with their corresponding javascript files, namely _app.js_ and _hex.js_.
+The application also has the possibility to generate random colors with every click of the button. The project consists of two pages **index.html** and **hex.html** with their corresponding javascript files, namely _app.js_ and _hex.js_.
 
 The application is coded in Visual Studio Code and deployed using Live server extension. This project is the first one in a series of basic javascript project created for better understanding of the technology and how things work. The inspiration for this project is coming from this [Udemy](https://www.udemy.com/course/javascript-tutorial-for-beginners-w/) course.
 
