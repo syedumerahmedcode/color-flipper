@@ -193,8 +193,8 @@ Feature requests, issues, pull requests and questions are welcome.
 - [1](https://www.udemy.com/course/javascript-tutorial-for-beginners-w/): Javascript Tutorial and Projects Course (2022)
   Learn Javascript by Building 30+ Interesting Projects **(Primary resource)**
 - [2](https://github.com/john-smilga/javascript-basic-projects): Original source code of the project **(Primary Resource) (Github)**
-- [3](https://developer.mozilla.org/en-US/docs/Web/JavaScript): JavaScript | MDN
-- [4](https://developer.mozilla.org/en-US/docs/Glossary/HTML5): HTML5 - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
+- [3](https://developer.mozilla.org/en-US/docs/Web/JavaScript): JavaScript - MDN
+- [4](https://developer.mozilla.org/en-US/docs/Glossary/HTML5): HTML5 - MDN Web Docs Glossary: Definitions of Web-related terms - MDN
 
 ## Contact Information
 
